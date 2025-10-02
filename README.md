@@ -1,4 +1,3 @@
-First C++ repo
+ini fitur 1
 ini fitur 2
-ini fitur 3
 baris dari github
